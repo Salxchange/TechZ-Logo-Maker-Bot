@@ -1,1 +1,1 @@
-worker: python3 get_config.py
+worker: python3 config.py
